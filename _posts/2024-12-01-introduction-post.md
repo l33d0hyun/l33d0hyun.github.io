@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Welcome!"
-author: "l33d0hyun"
+author: "Dohyun Lee (@l33d0hyun)"
 ---
 
 # Introduction
 - This page posts analysis reports on Exploited N-Day vulnerabilities and articles on cyber threats.
 
 # Contact
-- We are gathering a lot of information. If you have any information to share, please see the email below! and If you would like to join me in this work, please contact me :)
+- We are gathering a wealth of information on cyber threats. If you have any information to share, please check the email below! And if you'd like to join this effort, feel free to contact me!
   - e-mail : `pwnable@korea.ac.kr`
+
+# We are looking for it!
+- Someone experienced in N-Day vulnerability analysis and skilled in information gathering
