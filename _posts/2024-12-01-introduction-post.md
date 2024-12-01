@@ -10,4 +10,3 @@ author: "l33d0hyun"
 # Contact
 - We are gathering a lot of information. If you have any information to share, please see the email below! and If you would like to join me in this work, please contact me :)
   - e-mail : `pwnable@korea.ac.kr`
-
