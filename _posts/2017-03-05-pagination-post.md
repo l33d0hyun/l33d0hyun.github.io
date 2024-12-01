@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Pagination Post"
-author: "Inela"
+title: "Welcome!"
+author: "l33d0hyun"
 ---
 
-Here we see **Rain's** pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the `_config.yml` file!
+# Introduction
+- This page posts analysis reports on Exploited N-Day vulnerabilities and articles on cyber threats.
+
+# Contact
+- We are gathering a lot of information. If you have any information to share, please see the email below!
+  - e-mail : `pwnable@korea.ac.kr`
