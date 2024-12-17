@@ -12,19 +12,14 @@ author: "Dohyun Lee (@l33d0hyun)"
 - It is not yet perfect, but we are continuously improving it.
 
 # Reported
-
-| Vendor | Vulnerability-Type | Report-Date |
-|--------|-------------------|-------------|
-| Apple | Out-Of-Bounds ACCESS | 2024-12-11 |
-| Apple | Out-Of-Bounds ACCESS | 2024-12-11 |
-| Linux -> ZDI | Out-Of-Bounds READ | 2024-12-13 |
-| Linux -> ZDI | Out-Of-Bounds WRITE | 2024-12-13 |
+- | Apple | Out-Of-Bounds ACCESS | 2024-12-11 |
+- | Apple | Out-Of-Bounds ACCESS | 2024-12-11 |
+- | Linux -> ZDI | Out-Of-Bounds READ | 2024-12-13 |
+- | Linux -> ZDI | Out-Of-Bounds WRITE | 2024-12-13 |
 
 # Released
 
-| Vendor | Product | Vulnerability-Type | CVE-ID |
-|--------|---------|-------------------|---------|
-| Mozilla | Firefox | Out-Of-Bounds WRITE | CVE-2024-11691 |
+- | Mozilla | Firefox | Out-Of-Bounds WRITE | CVE-2024-11691 |
 
 # Undergoing Analysis (Validation)
 - We are currently organizing and categorizing validation and details for a huge number of bugs.
