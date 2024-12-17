@@ -18,7 +18,7 @@ author: "Dohyun Lee (@l33d0hyun)"
 - Linux -> ZDI . Out-Of-Bounds WRITE . 2024-12-13
 
 # Released
-
+- Google . Chromium . Out-Of-Bounds ACCESS . Issue 370177590
 - Mozilla . Firefox . Out-Of-Bounds WRITE . CVE-2024-11691
 
 # Undergoing Analysis (Validation)
