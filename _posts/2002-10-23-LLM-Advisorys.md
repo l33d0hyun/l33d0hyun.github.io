@@ -32,3 +32,8 @@ author: "Dohyun Lee (@l33d0hyun)"
   - [USELab, Korea University](https://sites.google.com/view/uselab-kus/home?authuser=0)
 - Contact:
   - pwnable@korea.ac.kr
+
+# Contributor:
+- Dohyun Lee (@l33d0hyun) of USELab, Korea University
+- Youngho Choi of CEL, Korea University
+- Prof. Geumhwan Cho of USELab, Korea University
