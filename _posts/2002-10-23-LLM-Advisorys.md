@@ -16,6 +16,7 @@ author: "Dohyun Lee (@l33d0hyun)"
 - Apple . Out-Of-Bounds ACCESS . 2024-12-11
 - Linux -> ZDI . Out-Of-Bounds READ . 2024-12-13
 - Linux -> ZDI . Out-Of-Bounds WRITE . 2024-12-13
+- Microsoft . Improper Access Control . 2024-12-24
 
 # Released
 - Google . Chromium . Out-Of-Bounds ACCESS . Issue 370177590
