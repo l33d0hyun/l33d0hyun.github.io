@@ -17,6 +17,10 @@ author: "Dohyun Lee (@l33d0hyun)"
 - Linux -> ZDI . Out-Of-Bounds READ . 2024-12-13
 - Linux -> ZDI . Out-Of-Bounds WRITE . 2024-12-13
 - Microsoft . Improper Access Control . 2024-12-24
+- Google . Buffer Overflow . 2024-12-28
+- Google . Buffer Overflow . 2024-12-28
+- Apple . Buffer Overflow . 2024-12-28
+- Apple . Buffer Overflow . 2024-12-28
 
 # Released
 - Google . Chromium . Out-Of-Bounds ACCESS . Issue 370177590
